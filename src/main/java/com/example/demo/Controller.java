@@ -4,5 +4,7 @@ public class Controller {
   // changes
 
   private int a =10;
+  
+  private String name="name";
 
 }
